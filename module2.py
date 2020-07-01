@@ -3,7 +3,7 @@ import sys
  
 (major_ver, minor_ver, subminor_ver) = (cv2.__version__).split('.')
  
-if __name__ == '__main__' :
+if __name__ == '__main__':
  
     print (minor_ver)
     #tecnicas de rastreamento
