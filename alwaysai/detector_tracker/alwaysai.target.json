@@ -1,0 +1,7 @@
+{
+  "targetProtocol": "ssh+docker:",
+  "targetHostname": "pi@192.168.15.38",
+  "targetPath": "alwaysai/detector_tracker",
+  "dockerImageId": "",
+  "targetHardware": "generic"
+}

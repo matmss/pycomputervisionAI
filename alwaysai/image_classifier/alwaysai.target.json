@@ -1,0 +1,7 @@
+{
+  "targetProtocol": "ssh+docker:",
+  "targetHostname": "pi@192.168.15.38",
+  "targetPath": "alwaysai/image_classifier",
+  "dockerImageId": "sha256:bb102a252a5c4547a044c46f42649d69840086047524b4d61b4545e01b5d2dc8",
+  "targetHardware": "generic"
+}

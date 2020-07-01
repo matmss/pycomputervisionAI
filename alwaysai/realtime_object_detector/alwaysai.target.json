@@ -1,0 +1,7 @@
+{
+  "targetProtocol": "ssh+docker:",
+  "targetHostname": "pi@192.168.15.38",
+  "targetPath": "alwaysai/realtime_object_detector",
+  "dockerImageId": "",
+  "targetHardware": "generic"
+}
